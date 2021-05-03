@@ -2,20 +2,20 @@
 
   
   
-   **##Advantages of using Node.js <h2>**
+   ## Advantages of using Node.js <h2>
   >The main characteristic of Node.JS was created in 2009
   >to meet a market need. It is the fact that its execution 
   >is single-threaded. That is, only one thread is 
   >responsible for executing the Javascript code of the application, 
   >while in other languages the execution is multi-thread. Like PHP, Java, C#.
   
-   ##Flexibility <h2>
+   ## Flexibility <h2>
   >NPM (Node Package Manager) is the package manager for Node.js and is also the
   >largest software repository in the world. This makes Node.js a platform with
   >the potential to be used in any situation. The best known package is called 
   >Express.js and is a complete framework for web application development."
   
-   ##Lightness <h2>
+   ## Lightness <h2>
   >Creating a Node.js environment and uploading an application is a task that
   >does not require a lot of computing resources in comparison with other more 
   >traditional technologies. If used in conjunction with tools like Docker, the
@@ -28,7 +28,7 @@
   >companies in the market, such as AWS, Google Cloud, and Microsoft Azure, which offer
   >native support for Node.JS in most of their products.
   
-   ##Team Productivity <h2>
+   ## Team Productivity <h2>
   >World's largest repository: NPM provides reusable code packages and probably that 
   >integration you need to make with another system or database is already implemented 
   >and available for free to install via NPM.

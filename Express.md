@@ -1,6 +1,6 @@
 It seems that the first step in learning Node.JS would be to learn what Express is.
 
-So I read in the course {https://web.digitalinnovation.one/course/introducao-ao-nodejs-com-expresses}
+So I read in the course https://web.digitalinnovation.one/course/introducao-ao-nodejs-com-expresses
 
 That Express is a minimalistic and fast web framework for Node.js that provides a robust framework and 
 feature set for web and mobile applications.

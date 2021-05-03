@@ -27,30 +27,10 @@ To start using Express in your project just type the following code
         app.listen(port, () => console.log('application running on port 3000'))
         ```
 
-Check: 
-
-``` http://localhost:3000/ ```
+Check: `http://localhost:3000/`
 
 Basically this was my first contact with Node.js using the Express framework.
 
-
-    function test() {
-      console.log("notice the blank line before this function?");
-    }
-
-
-
-~~~javascript
-Esta é uma linha de código em Javascript.
-~~~
-
-~~~php
-Esta é uma linha de código em PHP.
-~~~
-
-~~~html
-Esta é uma linha de código em HTML.
-~~~
 
 
 ##Thanks

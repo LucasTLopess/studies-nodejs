@@ -17,7 +17,7 @@ To start using Express in your project just type the following code
  
  Example : 
  
- ```
+ ```javascript
 const express = require('express')
 const app = express()
 const port = 3000

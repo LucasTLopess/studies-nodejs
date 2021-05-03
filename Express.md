@@ -17,6 +17,9 @@ To start using Express in your project just type the following code
  
  Example : 
  
+  Create a file like as: `index.js`
+  
+  Put this content:
 
   ~~~~javascript      
   const express = require('express')
@@ -26,6 +29,10 @@ To start using Express in your project just type the following code
   app.get('/', (req, res) => res.send('Node running express!'))
   app.listen(port, () => console.log('application running on port 3000'))
   ~~~~
+  
+  Open the Promt in the same folder which is the file and run 
+  
+  `node index.js`
   
 Check: `http://localhost:3000/`
 

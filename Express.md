@@ -11,22 +11,22 @@ in API and microservices development which is what I am currently studying both 
  
 To start using Express in your project just type the following code
 
-"npm install express --save
+`npm install express --save`
  
  Simple as that, you can now upload an application to any port on your LocalHost.
  
  Example : 
  
-        ```javascript
-        const express = require('express')
-        const app = express()
-        const port = 3000
 
-        app.get('/', (req, res) => res.send('Node running express!'))
+  ~~~~javascript      
+  const express = require('express')
+  const app = express()
+  const port = 3000
 
-        app.listen(port, () => console.log('application running on port 3000'))
-        ```
-
+  app.get('/', (req, res) => res.send('Node running express!'))
+  app.listen(port, () => console.log('application running on port 3000'))
+  ~~~~
+  
 Check: `http://localhost:3000/`
 
 Basically this was my first contact with Node.js using the Express framework.
